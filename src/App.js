@@ -1,11 +1,7 @@
 import React from "react";
 
-const App = () =>{
-    return (
-        <h1>
-            Hello world! I am using React
-        </h1>
-    )
-}
+const App = () => {
+  return <h1>Welcome to AbadIQ!</h1>;
+};
 
-export default App
+export default App;
