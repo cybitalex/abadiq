@@ -17,7 +17,6 @@ module.exports = {
     open: true,
     hot: true,
     liveReload: true,
-    disableHostCheck: true,
   },
   resolve: {
     extensions: ['.js', '.jsx', '.json'],
